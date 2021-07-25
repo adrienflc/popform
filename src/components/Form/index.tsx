@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/no-static-element-interactions */
 /* eslint-disable react/no-this-in-sfc */
 /* eslint-disable no-nested-ternary */
-import React, { useState, useCallback, useEffect } from 'react';
+import React, { useState, useCallback } from 'react';
 import Question from './components/Question';
 import NavigationButton from './components/NavigationButtons';
 import Answers from './components/Answers';
